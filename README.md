@@ -1,2 +1,2 @@
-# ed-isaura-1
+# ED Isaura 1
 Mi primero repositorio remoto
